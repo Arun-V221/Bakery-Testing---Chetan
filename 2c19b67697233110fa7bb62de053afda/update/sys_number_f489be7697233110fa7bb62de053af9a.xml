@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1002726_bakery_0_bun_butter_jam">x_1002726_bakery_0_bun_butter_jam</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>BUN</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>jos.kuruvila</sys_created_by>
+        <sys_created_on>2024-01-09 10:30:05</sys_created_on>
+        <sys_id>f489be7697233110fa7bb62de053af9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BUN</sys_name>
+        <sys_package display_value="Bakery Products" source="x_1002726_bakery_0">2c19b67697233110fa7bb62de053afda</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bakery Products">2c19b67697233110fa7bb62de053afda</sys_scope>
+        <sys_update_name>sys_number_f489be7697233110fa7bb62de053af9a</sys_update_name>
+        <sys_updated_by>jos.kuruvila</sys_updated_by>
+        <sys_updated_on>2024-01-09 10:30:05</sys_updated_on>
+    </sys_number>
+</record_update>

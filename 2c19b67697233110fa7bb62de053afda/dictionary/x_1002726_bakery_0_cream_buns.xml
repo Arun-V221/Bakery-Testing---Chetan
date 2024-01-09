@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ddcbba3a97233110fa7bb62de053af18" extends="task" label="Cream Buns" max_length="40" name="x_1002726_bakery_0_cream_buns" type="collection">
+        <element label="Bakery Name" max_length="40" name="bakery_name" type="string"/>
+    </element>
+</database>

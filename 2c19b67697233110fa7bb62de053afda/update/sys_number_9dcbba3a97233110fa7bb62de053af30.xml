@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1002726_bakery_0_cream_buns">x_1002726_bakery_0_cream_buns</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>CRE</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>jos.kuruvila</sys_created_by>
+        <sys_created_on>2024-01-09 10:39:58</sys_created_on>
+        <sys_id>9dcbba3a97233110fa7bb62de053af30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CRE</sys_name>
+        <sys_package display_value="Bakery Products" source="x_1002726_bakery_0">2c19b67697233110fa7bb62de053afda</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bakery Products">2c19b67697233110fa7bb62de053afda</sys_scope>
+        <sys_update_name>sys_number_9dcbba3a97233110fa7bb62de053af30</sys_update_name>
+        <sys_updated_by>jos.kuruvila</sys_updated_by>
+        <sys_updated_on>2024-01-09 10:39:58</sys_updated_on>
+    </sys_number>
+</record_update>

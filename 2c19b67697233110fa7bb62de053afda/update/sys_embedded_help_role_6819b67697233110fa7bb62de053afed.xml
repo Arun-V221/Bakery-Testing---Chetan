@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1002726_bakery_0.admin" name="x_1002726_bakery_0.admin">ec19b67697233110fa7bb62de053afeb</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>jos.kuruvila</sys_created_by>
+        <sys_created_on>2024-01-09 10:28:10</sys_created_on>
+        <sys_id>6819b67697233110fa7bb62de053afed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ec19b67697233110fa7bb62de053afeb</sys_name>
+        <sys_package display_value="Bakery Products" source="x_1002726_bakery_0">2c19b67697233110fa7bb62de053afda</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bakery Products">2c19b67697233110fa7bb62de053afda</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6819b67697233110fa7bb62de053afed</sys_update_name>
+        <sys_updated_by>jos.kuruvila</sys_updated_by>
+        <sys_updated_on>2024-01-09 10:28:10</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
